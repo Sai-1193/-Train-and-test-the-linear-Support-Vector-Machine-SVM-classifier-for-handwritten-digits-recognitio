@@ -1,0 +1,2 @@
+# -Train-and-test-the-linear-Support-Vector-Machine-SVM-classifier-for-handwritten-digits-recognitio
+The objective of this project is to use the SVM classifier to train a simple system for the recognition of handwritten digits (0, 1, …, 9). Use the MNIST database of handwritten digits for testing and training the system which is available on Blackboard-Homepage-Handwritten Digits Dataset. It contains 60k images that are sorted as one vector each with their labels.
